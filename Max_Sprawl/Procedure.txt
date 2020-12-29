@@ -1,8 +1,0 @@
-Redevelopment:
-1) get all parcel ids out of parcels file in h5
-2) place huge number for each parcel id from step 1 and friction factor
-
-Zoning:
-1) zoning baseline file in hdf contains base year info
-2) zoning_parcels_p contains updates for each year
-
